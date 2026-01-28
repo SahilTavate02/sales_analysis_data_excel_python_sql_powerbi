@@ -11,7 +11,7 @@ This project analyzes a retail sales dataset to uncover trends, regional perform
 
 ## 📂 Dataset Summary
 - **Source**: Internal sales transaction file
-- **Records**: 1450+ rows
+- **Records**: 500 rows
 - **Fields**: Order_ID, Order_Date, Customer, Region, Product, Sales, Cost
 - **Derived Columns**: Profit, Profit %, Month
 
